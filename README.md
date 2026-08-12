@@ -51,6 +51,3 @@ Below is a summary of my technical skills, featured analytics projects, and inte
 * **LinkedIn:** [Janefrances Chinaza](https://www.linkedin.com/in/chinaza-janefrances-860096247/)
 * **Email:** janechinaza7@gmail.com
 * **GitHub:** [JanefrancesChinaza](https://github.com/JanefrancesChinaza)
-* **LinkedIn:** [Janefrances Chinaza](https://www.linkedin.com/in/chinaza-janefrances-860096247/)
-* **Email:** janechinaza7@gmail.com
-* **GitHub:** [JanefrancesChinaza](https://github.com/JanefrancesChinaza)
