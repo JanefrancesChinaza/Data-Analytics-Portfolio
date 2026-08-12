@@ -1,6 +1,6 @@
 # Janefrances Chinaza | Data Analyst Portfolio
 
-Welcome to my data analytics portfolio! I specialize in turning raw, disparate data into actionable business insights using **SQL, Power BI, Advanced Excel, and Python**. 
+Welcome to my data analytics portfolio! I specialize in turning raw, disparate data into actionable business insights using **SQL, Power BI, and Advanced Excel**. 
 
 Below is a summary of my technical skills, featured analytics projects, and interactive dashboards.
 
@@ -8,8 +8,8 @@ Below is a summary of my technical skills, featured analytics projects, and inte
 
 ## 🛠️ Technical Toolkit
 
-* **Data Analysis & Querying:** SQL (PostgreSQL / MySQL), Python (Pandas, NumPy)
-* **Data Visualization & BI:** Power BI (DAX, Power Query, Data Modeling), Tableau
+* **Data Analysis & Querying:** SQL (PostgreSQL)
+* **Data Visualization & BI:** Power BI (DAX, Power Query, Data Modeling)
 * **Spreadsheets:** Microsoft Excel (Advanced Formulas, PivotTables, Data Cleaning)
 * **Version Control & Management:** Git, GitHub, Documentation
 
@@ -20,7 +20,7 @@ Below is a summary of my technical skills, featured analytics projects, and inte
 | Project | Tools Used | Core Objective / Key Insight | Links |
 | :--- | :--- | :--- | :--- |
 | **FIFA World Cup Historical Reconciliation** | Power BI, Power Query, DAX | Modeled and reconciled 5 years of historical match data into a star schema; built dynamic interactive dashboards for tournament metrics. | [Repository](#) \| [Live Dashboard](#) |
-| **Titanic Exploratory Data Analysis** | Python (Pandas/Seaborn), Excel | Performed exploratory data analysis to uncover demographic survival drivers and statistical correlations across passenger classes. | [Repository](#) \| [Read Case Study](#) |
+| **Titanic Exploratory Data Analysis** | Advanced Excel, SQL | Performed exploratory data analysis to uncover demographic survival drivers and statistical correlations across passenger classes. | [Repository](#) \| [Read Case Study](#) |
 | **Insurance Reconciliation & Data Cleaning** | Advanced Excel, Power Query | Streamlined raw transactional datasets, resolved audit discrepancies, and built automated reconciliation workflows. | [Repository](#) \| [Documentation](#) |
 
 ---
@@ -48,7 +48,9 @@ Below is a summary of my technical skills, featured analytics projects, and inte
 ---
 
 ## 📬 Connect With Me
-
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com)
-* **Email:** your.email@example.com
-* **Portfolio Website:** [yourportfolio.com](#)
+* **LinkedIn:** [Janefrances Chinaza](https://www.linkedin.com/in/chinaza-janefrances-860096247/)
+* **Email:** janechinaza7@gmail.com
+* **GitHub:** [JanefrancesChinaza](https://github.com/JanefrancesChinaza)
+* **LinkedIn:** [Janefrances Chinaza](https://www.linkedin.com/in/chinaza-janefrances-860096247/)
+* **Email:** janechinaza7@gmail.com
+* **GitHub:** [JanefrancesChinaza](https://github.com/JanefrancesChinaza)
